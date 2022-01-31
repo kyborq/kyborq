@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![gandalf-sax-guy](https://user-images.githubusercontent.com/52314985/149179062-50d088c1-6658-4cfb-a2da-da7460c69dcf.gif)
+
+![](https://github-readme-stats.vercel.app/api?username=kyborq&show_icons=true)
