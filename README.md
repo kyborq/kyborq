@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+### Projects
+
+#### iStudent
+
+Planner app for students written in React Native
+
+https://github.com/kyborq/iStudent
+
 ### Courses
 
 #### Web Development: 
