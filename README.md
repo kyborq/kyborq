@@ -1,6 +1,8 @@
-### Hi there 👋
+### Welcome! 👋
 
-### Projects
+I'm developing mobile and web apps based on React and React Native. Teaching web development and programming on python in school and college.
+
+### 🔭 Projects
 
 #### iStudent
 
@@ -8,13 +10,13 @@ Planner app for students written in React Native
 
 https://github.com/kyborq/iStudent
 
-### Courses
+### 🌱 Courses
 
 #### Web Development: 
 
 https://github.com/kyborq/web-course
 
-### Templates
+### ⚡ Templates
 
 #### Frontend (HTML, CSS, TS): 
 
