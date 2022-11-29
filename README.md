@@ -2,6 +2,8 @@
 
 I'm developing mobile and web apps based on React and React Native. Teaching web development and programming on python in school and college.
 
+![](https://visitor-badge.glitch.me/badge?page_id=kyborq)
+
 ### 🔭 Projects
 
 #### iStudent
