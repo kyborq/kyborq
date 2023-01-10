@@ -24,6 +24,10 @@ https://github.com/kyborq/web-course
 
 https://github.com/kyborq/frontend-starter 
 
+### React (TS)
+
+https://github.com/kyborq/react-starter
+
 #### Backend (NodeJS, MySQL, Sequelize, TS): 
 
 https://github.com/kyborq/backend-starter
