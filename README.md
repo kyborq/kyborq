@@ -1,6 +1,14 @@
 ### Welcome! 👋
 
-I'm developing mobile and web apps based on React and React Native. Teaching web development and programming on python in school and college.
+Who am i:
+- 22 y.o
+- 2020-2024 Student of Volga State Technological University (Program engineering)
+
+- Frontend developer (React and pure HTML/CSS/JS)
+- Mobile developer (React Native)
+- Game developer (JavaScript, Phaser)
+- Robotics engineer (Arduino and other microcontrollers)
+- Teacher (Robotics, Programming, Gamedev, Web developing)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=kyborq)
 
@@ -24,7 +32,7 @@ https://github.com/kyborq/web-course
 
 https://github.com/kyborq/frontend-starter 
 
-### React (TS)
+#### React (TS)
 
 https://github.com/kyborq/react-starter
 
