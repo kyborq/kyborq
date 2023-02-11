@@ -26,6 +26,10 @@ https://github.com/kyborq/iStudent
 
 https://github.com/kyborq/web-course
 
+#### Modern Web Development
+
+https://github.com/kyborq/frontend-course
+
 ### ⚡ Templates
 
 #### Frontend (HTML, CSS, TS): 
