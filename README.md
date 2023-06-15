@@ -10,6 +10,8 @@ Who am i:
 - Robotics engineer (Arduino and other microcontrollers)
 - Teacher (Robotics, Programming, Gamedev, Web developing)
 
+![Visitors](https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2Fkyborq&countColor=%23263759)
+
 ![](https://visitor-badge.glitch.me/badge?page_id=kyborq)
 
 ### 🔭 Projects
