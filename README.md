@@ -1,6 +1,3 @@
-![GandalfGIF](https://github.com/kyborq/kyborq/assets/52314985/a3b6c983-8667-489a-9138-cd1be3ef7f9b)
-
-
 # Konstantin Podyganov
 
 Hello there!
