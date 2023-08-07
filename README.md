@@ -14,6 +14,11 @@ Hello there!
 - [ ] 📱 [BeatMate / React Native](https://github.com/kyborq/BeatMate)
 - [ ] 📱 [Pettogram / Flutter](https://github.com/kyborq/Pettogram)
 
+#### In plan
+
+- [ ] 💻📱 StudyCenter / React, React Native, Rust
+- [ ] 💻 BugHunt / React, Rust
+
 ### 💻 Work Experience
 
 #### 2021-2022 Digital Technologies (Yoshkar-Ola)
