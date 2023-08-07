@@ -8,7 +8,11 @@ Hello there!
 ### ⚒️ Currently working on 
 
 - [ ] 💻 [Feeds / React, Rust](https://github.com/kyborq/feeds-frontend)
+
+#### Delayed
 - [ ] 📱 [iStudent / React Native](https://github.com/kyborq/iStudent)
+- [ ] 📱 [BeatMate / React Native](https://github.com/kyborq/BeatMate)
+- [ ] 📱 [Pettogram / Flutter](https://github.com/kyborq/Pettogram)
 
 ### 💻 Work Experience
 
