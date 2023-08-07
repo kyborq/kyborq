@@ -2,7 +2,14 @@
 
 Hello there!
 
+
 ## 🧑‍💻 About
+
+### ⚒️ Currently working on 
+
+- [ ] 💻 [Feeds / React (frontend)](https://github.com/kyborq/feeds-frontend)
+- [ ] 💻 [Feeds / Rust (backend)](https://github.com/kyborq/feeds-backend)
+- [ ] 📱 [iStudent / React Native](https://github.com/kyborq/iStudent)
 
 ### 💻 Work Experience
 
