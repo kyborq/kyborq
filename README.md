@@ -1,9 +1,8 @@
 # Konstantin Podyganov
 
-Hello there!
-
-
-## 🧑‍💻 About
+- 💡 I want to create a lot of things that will be useful to the whole world and not only. 
+- 😼 I develop web applications, system applications, backend applications, making robots and teaching students
+- 😎 As a hobby, I am engaged in robotics and teach programming and robotics in schools and learning centers
 
 ### ⚒️ Currently working on 
 
