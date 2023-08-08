@@ -1,10 +1,10 @@
 # Konstantin Podyganov
 
-Software engineer who like to write code in many domains
-- 💡 I want to create a lot of things that will be useful to the whole world and not only. 
-- 😼 I develop web applications, system applications, backend applications, making robots and finally videogames
-- 😎 As a hobby, I am engaged in robotics and teach programming and robotics in schools and learning centers
-- 🧩 Fun fact - my students call me sensei
+Software engineer who like to write code in many domains:
+- 💡 My purpose: create a lot of things that will be useful to me and for the whole world. 
+- 😼 I developing web applications, system applications, backend applications, making robots and videogames
+- 😎 Hobbies: robotics and teaching programming and robotics in schools and education centers 
+- 🧩 My students call me Sensei
 
 Open for work:
 - Contact me: podyganov01@gmail.com
