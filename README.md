@@ -12,16 +12,14 @@ Open for work:
 ### ⚒️ Currently working on 
 
 - [ ] 💻 [Feeds / React, Rust](https://github.com/kyborq/feeds-frontend)
+- [ ] 💻📱 Acadeyo LMS / React, React Native, Rust
 
 #### Delayed
 - [ ] 📱 [iStudent / React Native](https://github.com/kyborq/iStudent)
-- [ ] 📱 [BeatMate / React Native](https://github.com/kyborq/BeatMate)
-- [ ] 📱 [Pettogram / Flutter](https://github.com/kyborq/Pettogram)
 
 #### In plan
-
-- [ ] 💻📱 StudyCenter / React, React Native, Rust
-- [ ] 💻 BugHunt / React, Rust
+- [ ] 📱 [BeatMate / React Native](https://github.com/kyborq/BeatMate)
+- [ ] 📱 [Pettogram / Flutter](https://github.com/kyborq/Pettogram)
 
 ### 💻 Work Experience
 
