@@ -9,18 +9,6 @@ Software engineer who like to write code in many domains:
 Open for work:
 - Contact me: podyganov01@gmail.com
 
-### ⚒️ Currently working on 
-
-- [ ] 💻 [Feeds / React, Rust](https://github.com/kyborq/feeds-frontend)
-- [ ] 💻📱 Acadeyo LMS / React, React Native, Rust
-
-#### Delayed
-- [ ] 📱 [iStudent / React Native](https://github.com/kyborq/iStudent)
-
-#### In plan
-- [ ] 📱 [BeatMate / React Native](https://github.com/kyborq/BeatMate)
-- [ ] 📱 [Pettogram / Flutter](https://github.com/kyborq/Pettogram)
-
 ### 💻 Work Experience
 
 #### 2021-2022 Digital Technologies (Yoshkar-Ola)
