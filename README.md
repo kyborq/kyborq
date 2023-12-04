@@ -1,4 +1,4 @@
-# Konstantin Podyganov
+# Konstantin Podyganov [![CodeTime badge](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D22959%26project%3D%26in%3D0)](https://codetime.dev)
 
 Software engineer who like to write code in many domains:
 - 💡 My purpose: create a lot of things that will be useful to me and for the whole world. 
