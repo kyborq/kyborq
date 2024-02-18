@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <title>p-konst</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <main class="page">
+      <section class="intro">
+        <header class="intro__header">
+          <img src="./images/avatar.jpg" alt="" class="avatar" />
+          <h1 class="intro__description">Привет! Меня зовут Константин</h1>
+        </header>
+        <p class="intro__title">
+          Я <strong>разрабатываю</strong> комплексные веб, мобильные и
+          десктопные <strong>приложения</strong>
+          на React, React Native и Electron
+        </p>
+      </section>
+      <section class="portfolio">
+        <h2 class="portfolio__title">Проекты</h2>
+        <article class="project__card">
+          <div class="project">
+            <img
+              src="./images/lessona.png"
+              alt="Project 1"
+              class="project__image"
+            />
+            <div class="project__info">
+              <h3 class="project__title">Лессона</h3>
+              <p class="project__description">
+                Образовательный портал для школ и учебных центров, который
+                помогает ученикам, преподавателям и администраторам
+                взаимодействовать с образовательным процессом
+              </p>
+              <ul class="project__tags tags">
+                <li class="tags__item">React</li>
+                <li class="tags__item">NestJS</li>
+                <li class="tags__item">PostgreSQL</li>
+                <li class="tags__item">Docker</li>
+              </ul>
+            </div>
+          </div>
+          <div class="project__footer">
+            <div class="status">
+              <span class="status__title">Статус</span>
+              <span class="status__text">В разработке</span>
+            </div>
+            <div class="status">
+              <span class="status__title">Тип проекта</span>
+              <span class="status__text">Стартап</span>
+            </div>
+            <div class="status">
+              <span class="status__title">Ссылка</span>
+              <a class="status__text" href="http://app.lessona.ru/"
+                >lessona.ru</a
+              >
+            </div>
+          </div>
+        </article>
+        <article class="project__card">
+          <div class="project">
+            <img
+              src="./images/istudent.png"
+              alt="Project 1"
+              class="project__image"
+            />
+            <div class="project__info">
+              <h3 class="project__title">iStudent</h3>
+              <p class="project__description">
+                Мобильное приложение для удобного взаимодействия между
+                одногруппниками и старостой
+              </p>
+              <ul class="project__tags tags">
+                <li class="tags__item">React Native</li>
+                <li class="tags__item">NestJS</li>
+                <li class="tags__item">MongoDB</li>
+                <li class="tags__item">Docker</li>
+              </ul>
+            </div>
+          </div>
+          <div class="project__footer">
+            <div class="status">
+              <span class="status__title">Статус</span>
+              <span class="status__text">В разработке</span>
+            </div>
+            <div class="status">
+              <span class="status__title">Тип проекта</span>
+              <span class="status__text">Личный</span>
+            </div>
+            <div class="status">
+              <span class="status__title">Ссылка</span>
+              <a class="status__text" href="https://github.com/kyborq/iStudent"
+                >github.com</a
+              >
+            </div>
+          </div>
+        </article>
+        <article class="project__card">
+          <div class="project">
+            <img
+              src="./images/patents.png"
+              alt="Project 1"
+              class="project__image"
+            />
+            <div class="project__info">
+              <h3 class="project__title">Поиск патентов</h3>
+              <p class="project__description">
+                Веб-приложение с возможностью комментирования и
+                администрирования пользователей, для поиска медицинских патентов
+              </p>
+              <ul class="project__tags tags">
+                <li class="tags__item">React</li>
+                <li class="tags__item">Rust</li>
+                <li class="tags__item">MongoDB</li>
+                <li class="tags__item">Meilisearch</li>
+                <li class="tags__item">Docker</li>
+              </ul>
+            </div>
+          </div>
+          <div class="project__footer">
+            <div class="status">
+              <span class="status__title">Статус</span>
+              <span class="status__text">Завершен / поддержка</span>
+            </div>
+            <div class="status">
+              <span class="status__title">Тип проекта</span>
+              <span class="status__text">Коммерческий</span>
+            </div>
+            <div class="status">
+              <span class="status__title">Ссылка</span>
+              <a class="status__text" href="https://search.cleverip.ru/"
+                >cleverip.ru</a
+              >
+            </div>
+          </div>
+        </article>
+      </section>
+      <section class="portfolio">
+        <h2 class="portfolio__title">Мой e-mail для связи</h2>
+        <p>k.podyganov@mail.ru</p>
+      </section>
+    </main>
+
+    <div id="preview" style="display: none">
+      <div id="preview-content"></div>
+    </div>
+
+    <!-- 
+        _      _      _
+      >(.)__ <(.)__ =(.)__
+      (___/  (___/  (___/  
+
+      Да, утки, и что?
+      Что ты тут забыл вообще, не надо здесь копать
+      DevTools закрыл!
+      Шучу, ройся сколько хочешь ;)
+     -->
+
+    <script src="./preview.js"></script>
+  </body>
+</html>
