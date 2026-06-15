@@ -1,41 +1,81 @@
-# Konstantin Podyganov [![CodeTime badge](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D22959%26project%3D%26in%3D0)](https://codetime.dev)
+# Konstantin Podyganov
 
-Software engineer who like to write code in many domains:
-- 💡 My purpose: create a lot of things that will be useful to me and for the whole world. 
-- 😼 I developing web applications, system applications, backend applications, making robots and videogames
-- 😎 Hobbies: robotics and teaching programming and robotics in schools and education centers 
-- 🧩 My students call me Sensei
+Frontend Engineer focused on building reliable web products with React and TypeScript.
 
-Open for work:
-- Contact me: podyganov01@gmail.com
+- 🚀 4+ years in frontend development
+- 🏢 Commercial experience in B2B and enterprise products
+- 🧠 Interested in full-stack development, startups, and product thinking
+- 🌍 Open to remote work
 
-### 💻 Work Experience
+## 📬 Contact
 
-#### 2021-2022 Digital Technologies (Yoshkar-Ola)
+- Email: [podyganov01@gmail.com](mailto:podyganov01@gmail.com)
+- Telegram: [@kyborq](https://t.me/kyborq)
+- GitHub: [kyborq](https://github.com/kyborq)
 
-* Frontend React developer CryptoARM
-* React Native developer CryptoARM
+## 💼 Experience
 
-### 🎓 Education
+### Innostage — Frontend Engineer
+**2024 – 2026**
 
-#### 2020-2024 **Volga State University of Technology** (Software engineer, 4 years)
+- Built and maintained B2B enterprise interfaces
+- Worked with React 18, TypeScript, Zustand, React Query, Keycloak, Jest, and Docker
+- Improved UI consistency, testing, and team development processes
 
-  * https://github.com/kyborq/presentation-maker
-  * https://github.com/kyborq/survea
- 
-#### 2016-2020 **Mari Radio Mechanical College** (Programmer technician, 4 years)
+### Assino — Frontend Developer
+**2023 – 2024**
 
-  * https://github.com/kyborq/medical-crm
+- Developed frontend for B2B systems and REST API integrations
+- Worked on interface architecture and performance improvements
+- Contributed to internal frontend standards
 
-## ⚡ Skills
+### Digital Technologies (CryptoARM) — Frontend / React Native Developer
+**2021 – 2022**
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"></code>
+- Built desktop and mobile interfaces
+- Worked with React, Electron, Redux Toolkit, and React Native
+- Participated in cross-platform product development
+
+## 🛠 Skills
+
+### Frontend
+- React
+- TypeScript
+- JavaScript
+- Zustand
+- React Query
+- Redux Toolkit
+- HTML / CSS / Responsive UI
+
+### Backend & Tools
+- Node.js
+- REST API
+- PostgreSQL
+- Docker
+- Git
+- Jest
+- Vite
+
+### Also explored
+- React Native
+- Electron
+- Arduino
+- Rust
+- C++
+- C#
+
+## 🎓 Education
+
+### Volga State University of Technology
+**2020 – 2024**
+- Software Engineering
+
+### Mari Radio Mechanical College
+**2016 – 2020**
+- Programmer Technician
+
+## 👨‍💻 About me
+
+- I enjoy building useful products and practical tools
+- I’m interested in startups, robotics, and education projects
+- I like combining engineering with product thinking
